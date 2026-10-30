@@ -1,0 +1,7 @@
+database.db
+*.db
+app_backup.py
+app_broken.py
+.env
+__pycache__/
+*.pyc
